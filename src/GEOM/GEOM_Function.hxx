@@ -31,7 +31,7 @@
 #include <TDF_LabelSequence.hxx>
 #include <TDataStd_ListOfExtendedString.hxx>
 #include <TopoDS_Shape.hxx>
-#include <TColStd_HArray1OfAsciiString.HXX>
+#include <TColStd_HArray1OfAsciiString.hxx>
 
 class Handle_TColStd_HArray1OfReal;
 class Handle_TColStd_HArray1OfInteger;
